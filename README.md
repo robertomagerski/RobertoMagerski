@@ -11,3 +11,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=red)
 ![Insomnia](https://img.shields.io/badge/-Insominia-black?style=flat-square&logo=insomnia&logoColor=blue)
+
+### Contact:
+  Find me on these social media platforms.
+<div>
+<a href="https://https://www.linkedin.com/in/roberto-magerski-64874130b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/robertomagerski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+  <br>
