@@ -1,6 +1,6 @@
 ### Hi, i'm Roberto 👋
 ## I am a developer
-<h3>Tecnologias</h3>
+<h3>Estas são algumas das tecnologias e ferramentas com as quais trabalho:</h3>
 
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=red)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orange)
