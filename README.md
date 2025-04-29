@@ -1,6 +1,6 @@
 # Hi, I'm Roberto 👋
 
-## 👨‍💻 Front-End Developer | Focused on React, TypeScript & Tailwind
+## 👨‍💻 Front-End Developer | Focused on React & TypeScript
 
 I love turning ideas into digital experiences. Currently learning and building projects to sharpen my skills in modern web development.
 <h3>Here are the main technologies and tools I work with:</h3>
